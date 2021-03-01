@@ -1,0 +1,14 @@
+col=str(input("enter your favourite colour"))
+
+if col== "red":
+  print("I like red too")
+  
+elif col=="Red":
+  print("I like red too")
+  
+elif col=="RED":
+  print("I like red too")
+
+else:
+  print("I dont like" col "," col " is for losers")
+
